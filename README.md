@@ -23,10 +23,10 @@ __진행 미션__
 
 |Project|Repository|Pull Request|
 |-|---|---|
-|숫자야구게임|[java-baseball-precourse](https://github.com/pika96/java-baseball-precourse)|[Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/280)|
-|자동차 경주 게임|[java-racingcar-precourse](https://github.com/pika96/java-racingcar-precourse)|[Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/281)|
-|지하철 노선도 미션|[java-subway-map-precourse](https://github.com/pika96/java-subway-map-precourse)|[Pull Request](https://github.com/woowacourse/java-subway-map-precourse/pull/82)|
-|지하철 경로 조회 시험|[java-subway-map-precourse](https://github.com/pika96/java-subway-path-precourse)|[Pull Request](https://github.com/woowacourse/java-subway-path-precourse/pull/102)|
+|숫자야구게임|[java-baseball-precourse](https://github.com/pika96/java-baseball-precourse/tree/pika)|[Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/280)|
+|자동차 경주 게임|[java-racingcar-precourse](https://github.com/pika96/java-racingcar-precourse/tree/pika96)|[Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/281)|
+|지하철 노선도 미션|[java-subway-map-precourse](https://github.com/pika96/java-subway-map-precourse/tree/pika96)|[Pull Request](https://github.com/woowacourse/java-subway-map-precourse/pull/82)|
+|지하철 경로 조회 시험|[java-subway-map-precourse](https://github.com/pika96/java-subway-path-precourse/tree/pika96)|[Pull Request](https://github.com/woowacourse/java-subway-path-precourse/pull/102)|
 
 <br>
 
