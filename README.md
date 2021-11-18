@@ -116,6 +116,28 @@ __데모 영상__
 
 <br>
 
+## 🐓 Level 4 : Deep Study
+---
+__기간__
+- 2021.08.24 – 2021.10.29
+
+__진행 미션__
+
+|Project|Repository|Pull Request|
+|-|---|---|
+|HTTP 서버 구현하기|[jwp-dashboard-http-step1](https://github.com/pika96/jwp-dashboard-http/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/38)|
+||[jwp-dashboard-http-step2](https://github.com/pika96/jwp-dashboard-http/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/85)|
+|MVC 프레임워크 구현하기|[jwp-dashboard-mvc-step1](https://github.com/pika96/jwp-dashboard-mvc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/10)|
+||[jwp-dashboard-mvc-step2](https://github.com/pika96/jwp-dashboard-mvc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/57)|
+||[jwp-dashboard-mvc-step3](https://github.com/pika96/jwp-dashboard-mvc/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/68)|
+|JDBC 라이브러리 구현하기|[atdd-subway-jdbc](https://github.com/pika96/jwp-dashboard-jdbc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/12)|
+|조회 성능 개선하기|[sql-tuning](https://github.com/pika96/sql-tuning/blob/step1/mission.md)|[Pull Request](https://github.com/woowacourse/sql-tuning/pull/10)|
+|레거시 코드 리팩토링|[jwp-refactoring-step1](https://github.com/pika96/jwp-refactoring/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/100)|
+
+<br>
+
+<br>
+
 ## 🖋 Writing : 글쓰기 코스
 
 |Project|Repository|Pull Request|
